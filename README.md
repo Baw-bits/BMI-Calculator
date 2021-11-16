@@ -1,10 +1,10 @@
 # bmicalculator
 
-A new Flutter application.
+This flutter project calculates the BMI of an Individual by inputting your weight and height.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for Card usuage in Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
